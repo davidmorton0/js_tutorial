@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/davidmorton0/js_tutorial#readme",
   "dependencies": {
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "request": "^2.88.0"
   }
 }
